@@ -1,4 +1,11 @@
-# User Service - CRUD API
+## 📦 Versión y Autor
+- **Versión:** 1.0.0  
+- **Autor:** Adrián Iza 
+- **Rol:** Desarrollador Backend  
+- **Stack:** FastAPI · MongoDB · RabbitMQ · Docker · Railway  
+
+
+# Reto 1: User Service - CRUD API
 
 API REST para gestión de usuarios desarrollada con FastAPI y MongoDB.
 
@@ -69,8 +76,17 @@ La API estará disponible en: `http://localhost:8000`
 
 ## Documentación
 
+## Local
+
+- API : `http://localhost:8000/`
 - Swagger UI: `http://localhost:8000/docs`
 - ReDoc: `http://localhost:8000/redoc`
+
+## Produccion
+
+- API : `https://userservice-production-3871.up.railway.app/`
+- Swagger UI: `https://userservice-production-3871.up.railway.app/docs`
+- ReDoc: `https://userservice-production-3871.up.railway.app/redoc`
 
 ## Endpoints
 
